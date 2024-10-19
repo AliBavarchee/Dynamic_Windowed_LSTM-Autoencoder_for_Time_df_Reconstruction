@@ -1,5 +1,7 @@
 # Multi-Window LSTM Autoencoder for Time Series Data Compression and Prediction
 
+![Image of your project](cover.png)
+
 This Python code implements an **Autoencoder** using **LSTM** for time series data, where each feature has a different time window interval. Here's an overview of its functionality:
 
 1. **Data Preprocessing**: 
